@@ -27,7 +27,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          Keith Broughton
         </Link>
       </h1>
     </div>
