@@ -6,6 +6,8 @@ node_js:
 deploy:
   github_token: $GITHUB_TOKEN
   local_dir: public
+  on:
+    branch: src
   provider: pages
   skip_cleanup: true
   target_branch: master
