@@ -8,7 +8,7 @@ const IndexPage = () => (
     }}
   >
     <h1>Keith Broughton</h1>
-    <h2>Senior Developer</h2>
+    <p>Senior Developer based in Sydney, Australia</p>
   </div>
 )
 

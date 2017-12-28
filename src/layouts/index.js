@@ -16,10 +16,9 @@ const TemplateWrapper = ({ children }) => (
     />
     <div
       style={{
-        backgroundColor: '#eeeeee',
         display: 'flex',
         minHeight: '100vh',
-        padding: '1rem',
+        paddingTop: '7%',
         textAlign: 'center',
       }}
     >
