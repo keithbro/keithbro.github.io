@@ -23,26 +23,22 @@ const IndexPage = () => (
 
     <hr/>
 
-    <h2>Current Position</h2>
-    <h4>Developer @ Fat Zebra / Cloud Payments (August 2017 - Present)</h4>
+    <p>Developer @ Fat Zebra / Cloud Payments (August 2017 - Present)</p>
 
     <img className="logo" src={ruby}/>
     <img className="logo" src={rails}/>
     <img className="logo" src={elasticsearch}/>
     <img className="logo" src={postgresql}/>
 
-    <hr/>
-
-    <h2>Previous Positions</h2>
-    <h4>Senior Developer / Tech Lead @ YOOX NET-A-PORTER Group (2016/17)</h4>
+    <p>Senior Developer / Tech Lead @ YOOX NET-A-PORTER Group (2016/17)</p>
 
     <img className="logo" src={perl5}/>
     <img className="logo" src={postgresql}/>
     <img className="logo" src={kinesis}/>
     <img className="logo" src={nodejs}/>
 
-    <h4>Senior Developer @ Broadbean Technology (2014 - 2016)</h4>
-    <img className="logo" src={perl5}/>
+    <p>Senior Developer @ Broadbean Technology (2014 - 2016)</p>
+    <img className="logo" src={perl5} alt="Perl 5"/>
     <img className="logo" src={mysql}/>
     <img className="logo" src={emberjs}/>
     <img className="logo" src={vagrant}/>
