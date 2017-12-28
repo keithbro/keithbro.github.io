@@ -3,7 +3,7 @@ language: node_js
 node_js:
   - "lts/*"
 
-script: npm build
+script: npm run build
 
 deploy:
   github_token: $GITHUB_TOKEN
